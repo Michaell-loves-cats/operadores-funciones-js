@@ -1,0 +1,3 @@
+
+
+document.getElementById("TriAP").innerHTML = ""
