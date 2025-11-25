@@ -1,1 +1,0 @@
-document.getElementById("TriAP").innerHTML = "Are"
